@@ -9,4 +9,6 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 
 ## 🚀 Let's code! 🚀
 # novo-instagram-dio
-# novo-instagram-dio
+
+Página de login do Instagram: nesse projeto, foi abordado o conceito sobre CSS Flexbox e responsividade, 
+preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
